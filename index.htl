@@ -6,6 +6,8 @@
 
 -add <file> >> añadir un archivo al estado de trabajo
 
+-add . >> añadir todos al estado de trabajo
+
 -commit >> añadir una version
 
 -log >> visualizar todas las versiones
