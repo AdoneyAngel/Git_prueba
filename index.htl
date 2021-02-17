@@ -1,3 +1,21 @@
-Primera prueba1
+\ TODOS LOS COMANDOS EMPIEZAN CON git \
 
-segunda linea
+-init >> iniciar git en la carpeta actual
+
+-status >> estado de los archivos del proyecto
+
+-add <file> >> añadir un archivo al estado de trabajo
+
+-commit >> añadir una version
+
+-log >> visualizar todas las versiones
+
+-remove <file> >> restablecer archivo a la version anterior
+
+-diff <file> visualizar cambios en archivo llamado
+
+-branch >> visualizar..."como las versiones del proyecto"
+
+-branch <name> >> crear..."una nueva version del proyecto"
+
+-checkout <name-version-proyec> >> entrar en una version del proyecto nombrado
